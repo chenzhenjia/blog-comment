@@ -1,7 +1,9 @@
 {
   "addFlower":{
-    "url":"",
-    referer:"",
+    "header":{
+      "Url":"/other/add_flower_for_201811_christmas_campaign",
+      "Referer":"https://c.weifanapp.com/campaigns/201811/christmas",
+    },
   },
-  "disabled:false,
+  "disabled":false,
 }
